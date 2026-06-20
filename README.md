@@ -2,8 +2,8 @@
 
 A production-ready REST API for predicting property prices across Jabodetabek, built with FastAPI, containerized with Docker, and powered by an XGBoost machine learning model.
 
-Live API: [Add your Railway URL here after deployment]
-Interactive Docs: `{your-url}/docs`
+Live API: https://house-price-api-production-b304.up.railway.app
+Interactive Docs: https://house-price-api-production-b304.up.railway.app/docs
 
 ---
 
